@@ -1,3 +1,5 @@
+#wish9의 작업내용이 궁금하면 바로 아래 블로그 링크를 참고해주세요
+
 [스택오버플로우 작업일기](https://velog.io/@wish17/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-8193%EC%9D%BC%EC%B0%A8-PreProject)
 <br>
 [오류일기](https://velog.io/@wish17/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-8293%EC%9D%BC%EC%B0%A8-PreProject-%EC%98%A4%EB%A5%98%EC%9D%BC%EA%B8%B0)
